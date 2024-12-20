@@ -1,7 +1,10 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
+!**/src/main/java/com/mycompany/css/
 !**/src/test/**/target/
+
+
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
